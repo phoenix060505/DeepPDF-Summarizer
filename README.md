@@ -33,5 +33,11 @@
     ```bash
     python pdf-reader-text-image-version3.py
     ```
+5. If you don't want to download OCR and just want to read the words in your pdfs, you can just run this script:
+    ```bash
+    python pdf-summary-text.py
+    ```
+   
+   
 
 Make sure Tesseract-OCR is correctly installed and accessible on your system.
