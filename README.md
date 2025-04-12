@@ -17,7 +17,7 @@
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/DeepPDF-Summarizer.git
+    git clone https://github.com/phoenix060505/DeepPDF-Summarizer.git
     ```
 2. Install dependencies:
     ```bash
