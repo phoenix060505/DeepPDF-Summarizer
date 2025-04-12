@@ -19,13 +19,17 @@
     ```bash
     git clone https://github.com/phoenix060505/DeepPDF-Summarizer.git
     ```
-2. Install dependencies:
+2.Enter the directory where the project is located：
+  ```bash
+  cd DeepPDF-Summarizer
+  ```
+3. Install dependencies:
     ```bash
     pip install -r requirements.txt
     ```
-3. Install Tesseract-OCR:
+4. Install Tesseract-OCR:
     - Follow the instructions above to install Tesseract-OCR based on your operating system.
-4. Run the script:
+5. Run the script:
     ```bash
     python pdf-reader-text-image-version3.py
     ```
