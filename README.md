@@ -19,10 +19,10 @@
     ```bash
     git clone https://github.com/phoenix060505/DeepPDF-Summarizer.git
     ```
-2.Enter the directory where the project is located：
-  ```bash
-  cd DeepPDF-Summarizer
-  ```
+2. Enter the directory where the project is located：
+    ```bash
+    cd DeepPDF-Summarizer
+    ```
 3. Install dependencies:
     ```bash
     pip install -r requirements.txt
